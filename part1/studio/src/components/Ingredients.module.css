@@ -1,3 +1,17 @@
 .ingredientList {
     text-align: left;
+    list-style: none;
+    border: crimson;
+    border-style: dotted;
+
+}
+
+li::before {
+    content: '';
+    display: inline-block;
+    height: 2em;
+    width: 3em;
+    background-image: url("https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/7/26/1/IG1B11_beef-bourguignon_s4x3.jpg.rend.hgtvcom.1280.720.suffix/1384540894086.jpeg");
+    background-repeat: no-repeat;
+    background-size:cover;
 }

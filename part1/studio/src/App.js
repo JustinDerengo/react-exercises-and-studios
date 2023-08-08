@@ -8,10 +8,10 @@ function App() {
   return (
     <div className="App">
       <div className="recipePhotoBlock">
-        <RecipePhoto />
-        <div>
-          <RecipeDescription />
-          <RecipeIngredients />
+       <RecipeDescription /> 
+       <div>
+       <RecipePhoto />
+       <RecipeIngredients />
         </div>
       </div>
     </div>
