@@ -1,0 +1,29 @@
+
+
+[
+    {
+        "name": "S&P 500",
+        "ticker": "GSPC",
+        "price": 4487.47
+    },
+    {
+        "name": "Dow Jones Industrial Average",
+        "ticker": "DJI",
+        "price": 35263.86
+    },
+    {
+        "name": "NASDAQ Composite",
+        "ticker": "IXIC",
+        "price": 13757.83
+    },
+    {
+        "name": "Russel 2000",
+        "ticker": "RUT",
+        "price": 1937.97
+    },
+    {
+        "name": "Crude Oil",
+        "ticker": "CL=F",
+        "price": 83.60
+    }
+]
